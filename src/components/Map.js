@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import ReactMapGL, { NavigationControl } from "react-map-gl";
 
-const TOKEN =
-	"pk.eyJ1Ijoid2FnYSIsImEiOiJjanRrYmpob3kxMXk2NDRscWx6ZmhnYm42In0.YmvGsjlNuwrhISgXMwwBbg";
+const TOKEN = "XXXXXX INSERT TOKEN HERE";
 
 const navStyle = {
 	position: "absolute",
